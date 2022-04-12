@@ -7,5 +7,5 @@ Imagens do projeto:
 
 
 
-![img1](C:\Users\wever\Desktop\Bootcamp CARREFOUR\Interface-Netflix\img1.jpg)
+![img1](https://github.com/wevertonsantos/Interface-Netflix/blob/main/img2.jpg)
 
