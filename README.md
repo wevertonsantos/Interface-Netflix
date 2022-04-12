@@ -3,6 +3,9 @@ Recriando a Netflix com HTML, CSS3 e JavaScript. JQuery.
 
 Imagens do projeto:
 
-![img1](\Interface-Netflix)
+![img2](C:\Users\wever\Desktop\Bootcamp CARREFOUR\Interface-Netflix\img2.jpg)
 
-![img2](\Interface-Netflix)
+
+
+![img1](C:\Users\wever\Desktop\Bootcamp CARREFOUR\Interface-Netflix\img1.jpg)
+
